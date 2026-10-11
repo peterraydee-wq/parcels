@@ -1,0 +1,13 @@
+[package]
+name = "parcels-core"
+version = "0.1.0"
+edition = "2021"
+description = "parcels' engine: one JSON-lines interface over winget, scoop, choco, npm, cargo, pip, go, vcpkg, git and friends"
+
+# zero dependencies on purpose: std only. builds offline.
+[dependencies]
+
+[profile.release]
+opt-level = "s"
+lto = true
+strip = true

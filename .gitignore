@@ -1,0 +1,5 @@
+core/target/
+dist/
+tui/go.sandbox.*
+tui/go.sum
+parcels-manifest.json

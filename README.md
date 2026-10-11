@@ -1,10 +1,9 @@
 ```
-     |\     /|
-     | \___/ |      parcels
-    /  o   o  \     every package manager, one box
-   (     v     )
-    \   ---   /
-     `-.___.-'
+                          __  
+   ___  ___ ____________ / /__
+  / _ \/ _ `/ __/ __/ -_) (_-<
+ / .__/\_,_/_/  \__/\__/_/___/
+/_/                           
 ```
 
 search winget, scoop, chocolatey, npm, pnpm, bun, pip, uv, pipx, cargo, go, vcpkg, dotnet tools and
